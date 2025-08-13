@@ -1,5 +1,3 @@
 Name:keerthana
-rollno:07
-suc:2358250170
-email:keerthanabadireddy00@gmail.com
+course:bca
 phoneno:9966591719
